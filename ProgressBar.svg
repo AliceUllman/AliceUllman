@@ -1,0 +1,19 @@
+<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="60" fill="#07072e" rx="5" ry="5"/>
+  <rect x="10" y="30" width="380" height="15" fill="#0a0a2a" rx="3" ry="3"/>
+  <rect x="10" y="30" width="0" height="15" fill="#0f0" rx="3" ry="10">
+    <animate 
+      attributeName="width" 
+      values="0;380;0" 
+      keyTimes="0;0.999;1" 
+      dur="6s" 
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0 0 1 1"
+    />
+  </rect>
+  <rect x="10" y="30" width="380" height="15" fill="none" stroke="#0f0" stroke-width="1.5" rx="3" ry="3"/>
+  <text x="15" y="22" font-family="Monaco, monospace" font-size="13" fill="#0f0" text-anchor="start">
+    developer in progress...
+  </text>
+</svg> 
