@@ -1,6 +1,55 @@
 <h1 align="center">Alice Ullman</h1>
-<h3 align="center">I'm a student studying .Net development at Campus Nyköping</h3>
+
+<p align="center"> <i>Student .NET Developer | Nyköping-Sweden</i></p>
+<p align="center"><br><img src="ProgressBar.svg" width="450"><br></p>
+
+<p align="center">
+  <strong><span style="font-size:18px;">Developer in progress, passionate about learning and improving every day.</span></strong><br>
+  I dive into ambitious projects exited to try out all the cool things I learn, <br>sometimes it's more than I can handle, but that’s how I grow. <br><br>
+</p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills im learning/studying</b>
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+
+- **FrameWork**:
+  
+  ![.NET](https://img.shields.io/badge/.NET-%230512AB.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+  <br>
+  
+- **Languages**:
+    
+  ![C#](https://img.shields.io/badge/C%23-%230178D4.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  <br>
+
+- **Cloud Hosting**:
+
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  <br>
+  
+- **Softwares and Tools**:
+
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%237239B7.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Spyder](https://img.shields.io/badge/Spyder-%2300ACB1.svg?style=for-the-badge&logo=spyder-ide&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  <br>
+
+- **Databases & ORM**:
+  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%230512AB.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%230073C4.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  <br>
+  
+- **Learning & Experimenting in my free time**:
+
+    ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=lock&logoColor=white)
+    ![SVG](https://img.shields.io/badge/SVG-%23FF9900.svg?style=for-the-badge&logo=svg&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)      
+</p>
