@@ -1,7 +1,7 @@
 <h1 align="center">Alice Ullman</h1>
 
 <p align="center"> <i>Student .NET Developer | Nyköping-Sweden</i></p>
-<p align="center"><br><img src="ProgressBar.svg" width="450"><br></p>
+<p align="center"><br><img src="ProgressbarNoBackground.svg" width="450"><br></p>
 
 <p align="center">
   <strong><span style="font-size:18px;">Developer in progress, passionate about learning and improving every day.</span></strong><br>
